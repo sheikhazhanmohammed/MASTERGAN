@@ -18,7 +18,7 @@ The introduced novel model uses multiple attention modules together, along with 
 
 ### Figure 1: Architecture of MASTERGAN 
 
-![Building blocks of ResAttUNet](./static/modelarchitecture.png "Building blocks of ResAttUNet")
+![Architecture of MASTERGAN ](./static/modelarchitecture.png "Architecture of MASTERGAN ")
 
 </center>
 </div>
