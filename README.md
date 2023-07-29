@@ -33,7 +33,7 @@ The table below shows the performance of various models discussed, along with ex
 |----------|--------|--------|
 | Swin IR  | 30.753 | 0.907  |
 | SRResNet | 26.876 | 0.845  |
-| D-SRGAN  | 30.828 | 0.9172 |
+| D-SRGAN  | 30.828 | 0.907 |
 | ESPCN    | 29.078 | 0.877  |
 | SRCNN    | 30.630 | 0.907  |
 | MATSRGAN | 31.024 | 0.908  |
@@ -48,6 +48,5 @@ The table below shows the performance of various models discussed, along with ex
   - Personal Website: https://www.azhanmohammed.xyz
 
 - Author 2:
-  - Name: 
-  - LinkedIn: 
-  - Personal Website:
+  - Name: Md Haider Zama
+  - LinkedIn: https://www.linkedin.com/in/md-haider-zama-3937a8218/
